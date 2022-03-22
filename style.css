@@ -6,10 +6,15 @@ header{
     background-color: black;
     padding: 30px;
     margin-bottom: 30px;
+    display: flex;
+}
+#imagenHeader{
+    width: 200px;
 }
 h1{
     color: white;
     text-align: center;
+    padding-top: 70px;
 }
 ol{
     list-style: disc;
